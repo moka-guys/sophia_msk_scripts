@@ -94,5 +94,4 @@ This makes it safe to schedule via cron and monitor through syslog alerts.
   the pipeline configured in SOPHiA DDM.
 
 For issues with SOPHiA credentials or CLI behaviour escalate to the SOPHiA DDM
-support team. For SampleSheet or run folder layout problems contact the
-sequencing informatics group.
+support team.
