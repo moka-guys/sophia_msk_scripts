@@ -1,0 +1,17 @@
+*.log
+*.json
+*.csv
+*.fastq.gz
+logs/
+input_json_files/
+legacy_scripts/
+temp/
+__pycache__/
+*.pyc
+.vscode/
+.env
+.env.*
+validation_runs/
+cli.txt
+report.py
+reporting/

@@ -1,0 +1,11 @@
+expected_login_iam_message: "Already logged in with IAM"
+recent_runs_to_check: 5
+expected_pipeline_id: 7043
+reference_name: "CLI_TEST"
+fastq_tests:
+  - label: "empty FASTQ file"
+    folder: "validation_runs/empty_pair/"
+    expected_error: "File is empty"
+  - label: "single FASTQ file"
+    folder: "validation_runs/single/"
+    expected_error: "Folder must contain at least 2 fastq.gz files"
